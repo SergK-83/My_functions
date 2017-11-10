@@ -1,3 +1,4 @@
+// binary search for an element in a sorted ascending array
 const binarySearch = (arr, x) => {
 	let l = 0;
 	let r = arr.length - 1;
